@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.turner.CiscoMDS'
 VERSION = '1.2.2'
 AUTHOR = 'David Nicklay'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.turner']
 PACKAGES = ['ZenPacks', 'ZenPacks.turner', 'ZenPacks.turner.CiscoMDS']
 INSTALL_REQUIRES = []
